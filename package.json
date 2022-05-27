@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index"
   },
-  "author": "",
+  "author": "Gordon Do",
   "license": "ISC",
   "dependencies": {
     "console.table": "^0.10.0",
