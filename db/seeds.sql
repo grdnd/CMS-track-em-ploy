@@ -10,7 +10,8 @@ VALUES
     ('Documents'),
     ('Finance'),
     ('Recruitment'),
-    ('Team Ambassador');
+    ('Team Ambassador'),
+    ('Basic');
 
 INSERT INTO roles
     (title, salary, department_id)
@@ -22,7 +23,8 @@ VALUES
     ('Captain', 160000, 5),
     ('Marketing Chair', 125000, 6),
     ('Treasurer', 180000, 7),
-    ('Human Resources Chair', 80000, 8);
+    ('Human Resources Chair', 80000, 8),
+    ('Team Member');
 
 INSERT INTO employees
     (first_name, last_name, role_id, manager_id)
