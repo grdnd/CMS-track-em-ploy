@@ -1,38 +1,40 @@
 USE employee_db;
 
-INSERT INTO department
+INSERT INTO departments
     (name)
 VALUES
-    ('Sales'),
-    ('Engineering'),
+    ('Executive'),
+    ('Media'),
+    ('Blocking'),
+    ('Choreography'),
+    ('Documents'),
     ('Finance'),
-    ('Legal'),
-    ('Performance');
+    ('Recruitment'),
+    ('Team Ambassador');
 
-INSERT INTO role
+INSERT INTO roles
     (title, salary, department_id)
 VALUES
-    ('Sales Lead', 100000, 1),
-    ('Salesperson', 80000, 2),
-    ('Lead Engineer', 150000, 3),
-    ('Software Engineer', 120000, 4),
-    ('Account Manager', 160000, 5),
-    ('Accountant', 125000, 6),
-    ('Legal Team Lead', 250000, 7),
-    ('Lawyer', 190000, 8);
-    ('Developer', 100000, 9)
+    ('Executive Director', 250000, 1),
+    ('Artistic Director', 200000, 2),
+    ('Media Coordinator', 150000, 3),
+    ('Team Historian', 120000, 4),
+    ('Captain', 160000, 5),
+    ('Marketing Chair', 125000, 6),
+    ('Treasurer', 180000, 7),
+    ('Human Resources Chair', 80000, 8);
 
-INSERT INTO employee
+INSERT INTO employees
     (first_name, last_name, role_id, manager_id)
 VALUES
-    ('Alec', 'Baldwin', 1, 1),
-    ('Indiana', 'Jones', 2, 1),
-    ('Avatar', 'Aang', 3, 2),
+    ('Alec', 'Baldwin', 8, NULL),
+    ('Indiana', 'Jones', 7, 1),
+    ('Avatar', 'Aang', 7, NULL),
     ('Kalvin', 'Clein', 4, 3),
-    ('Juman', 'Ji', 5, 2),
+    ('Juman', 'Ji', 4, NULL),
     ('Moon', 'Knight', 6, 5),
-    ('Aloy', 'Sobek', 7, 5),
-    ('Tom', 'Holland', 8, 7),
-    ('Zack', 'Effron', 9, 7),
-    ('Kanye', 'West', 10, 4),
-    ('Gordon', 'Ramsey', 11, 6);
+    ('Aloy', 'Sobek', 7, NULL),
+    ('Tom', 'Holland', 5, 7),
+    ('Zack', 'Effron', 5, NULL),
+    ('Kanye', 'West', 1, NULL),
+    ('Gordon', 'Ramsey', 2, NULL);
