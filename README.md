@@ -1,6 +1,6 @@
 # Homework 12: Employee Tracker with SQL
 
-[License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
@@ -17,6 +17,8 @@ This can be done by simply running: `npm i` or `npm install console.table inquir
 Once this process has completed, you're all set!
 
 ## Usage
+
+![cms-track-em-ploy](https://user-images.githubusercontent.com/93315369/170811899-9a19689c-789e-495e-9fbe-0eb327135c01.png)
 
 Project Video: [Check out our demonstration!](https://youtu.be/a5vJSLKpMo0)
 
