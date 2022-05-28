@@ -1,6 +1,6 @@
 # Homework 12: Employee Tracker with SQL
 
-[License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
