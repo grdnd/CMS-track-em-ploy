@@ -18,6 +18,8 @@ Once this process has completed, you're all set!
 
 ## Usage
 
+Project Video: [Check out our demonstration!](https://youtu.be/a5vJSLKpMo0)
+
 To use this application, we can utilize our `npm start` script, which is simply `node index.js`.
 
 Create a database in `MySQL` and call it `employee_db` where we will be storing all of our seed data.
