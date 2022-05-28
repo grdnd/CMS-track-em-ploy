@@ -34,13 +34,13 @@ When our data has successfully seeded, the command line will now run your design
 
 If you would like to make a contribution to this project, please access my github repository at:
 
-:open_file_folder:: [CMS-track-em-ploy](github.com/grdnd/CMS-track-em-ploy)
+:open_file_folder:: [CMS-track-em-ploy](https://github.com/grdnd/CMS-track-em-ploy)
 
 ### Questions
 
 If you have any questions for me, feel free to reach out to me at:
 
-:octocat:: [grdnd@github](github.com/grdnd)
+:octocat:: [github@gordon](https://github.com/grdnd)
 
 :envelope:: [gordfolio@gmail.com](mailto:gordfolio@gmail.com)
 
