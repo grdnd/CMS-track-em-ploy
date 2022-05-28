@@ -18,6 +18,8 @@ Once this process has completed, you're all set!
 
 ## Usage
 
+![cms-track-em-ploy](https://user-images.githubusercontent.com/93315369/170811899-9a19689c-789e-495e-9fbe-0eb327135c01.png)
+
 Project Video: [Check out our demonstration!](https://youtu.be/a5vJSLKpMo0)
 
 To use this application, we can utilize our `npm start` script, which is simply `node index.js`.
@@ -32,13 +34,13 @@ When our data has successfully seeded, the command line will now run your design
 
 If you would like to make a contribution to this project, please access my github repository at:
 
-:open_file_folder:: [CMS-track-em-ploy](github.com/grdnd/CMS-track-em-ploy)
+:open_file_folder:: [CMS-track-em-ploy](https://github.com/grdnd/CMS-track-em-ploy)
 
 ### Questions
 
 If you have any questions for me, feel free to reach out to me at:
 
-:octocat:: [grdnd@github](github.com/grdnd)
+:octocat:: [github@gordon](https://github.com/grdnd)
 
 :envelope:: [gordfolio@gmail.com](mailto:gordfolio@gmail.com)
 
